@@ -4,3 +4,4 @@
 
 # Ignore the compiled program
 /zunit
+/init.zsh

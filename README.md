@@ -28,6 +28,13 @@ zulu install zunit
 brew install zunit-zsh/zunit/zunit
 ```
 
+### Antigen
+
+```sh
+antigen bundle molovo/revolver
+antigen bundle LaloHao/zunit
+```
+
 ### Manual
 
 ```sh
